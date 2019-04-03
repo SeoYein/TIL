@@ -2,7 +2,7 @@
 
 ---
 
-* ##### 등장 배경 (기존의 문제)
+* ### 등장 배경 (기존의 문제)
 
   * 잘못된 방법으로 weight를 초기화했다는 주장 
 
@@ -14,11 +14,11 @@
 
     
 
-* ###### input X와 output Y의 평균과 분산이 일치하도록 weight를 초기화해야 한다. 그래서 Layer가 늘어나도 saturation에 안 빠지고 model이 train될 수 있어야 한다.  
+* #### input X와 output Y의 평균과 분산이 일치하도록 weight를 초기화해야 한다. 그래서 Layer가 늘어나도 saturation에 안 빠지고 model이 train될 수 있어야 한다.  
 
 
 
-* ##### Xavier initialization
+* ### Xavier initialization
 
   * not too small, not too big인 값을 고르면 된다!
   * fan_in : 입력층 뉴런의 수, fan_out : 출력층 뉴런의 수 
@@ -38,7 +38,7 @@
 
   
 
-* ##### He initialization
+* ### He initialization
 
   * ReLU를 활성화 함수로 사용 시 Xavier 설정이 0으로 출력값을 수렴하게 만드는 문제 해결 
 
