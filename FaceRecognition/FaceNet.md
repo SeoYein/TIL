@@ -96,6 +96,6 @@
 
 - 1x1xd conv layer의 효과 ?
 
--  FLOPS ?
+-  FLOPS  ?
 
 -  Cnn bottleneck layer
