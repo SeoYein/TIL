@@ -164,3 +164,9 @@ H. An AnoGAN Approach
   * Training data 증가 
 
     
+
+#### 기타
+
+* TIP 관련 자료 (영문)
+
+<https://www.wi-ltd.com/x-ray-baggage-scanner-features/>
