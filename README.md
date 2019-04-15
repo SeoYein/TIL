@@ -37,4 +37,5 @@ https://github.com/SeoYein/TIL/blob/master/computer%20vision/Image_classificatio
 https://github.com/SeoYein/TIL/blob/master/deeplearning_base/weight_initialization.md
 
 * PCA 
+
 https://github.com/SeoYein/TIL/blob/master/deeplearning_base/PCA.md 
