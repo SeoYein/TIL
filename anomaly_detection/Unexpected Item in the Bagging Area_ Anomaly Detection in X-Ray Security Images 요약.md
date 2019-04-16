@@ -78,6 +78,7 @@ B.Semantic
 * 기존에 많이 사용하는 방식인 TD에 관해 appearance와 semantic anomaly 구분하기 
 * representation이 supervised TD에 얼마나 잘 작동하나 보기 
 * appearance의 경우 99%, semantic은 92% 정확도를 보임 
+* Anomaly detection의 성능 기준을 잡기 위한 거라고 언급하고 있음. 
 
 ​	
 
@@ -88,7 +89,7 @@ B.Semantic
 * basic하게 접근 시 : 총기는 더 어두우니까 총기가 있는 그림은 pixel값이 더 높을 것이라 생각하고 진행할 시 성능은 60~70%정도(AUC)
 
 A. Appearance
-
+* representation의 분산을 다르게 해서 시도해봤음 
 * full-covariance gaussian model을 썼다. 그게 성능이 좋음. 95%
 
 B.Semantics
