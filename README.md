@@ -39,3 +39,6 @@ https://github.com/SeoYein/TIL/blob/master/deeplearning_base/weight_initializati
 * PCA 
 
 https://github.com/SeoYein/TIL/blob/master/deeplearning_base/PCA.md 
+
+* density estimation
+https://github.com/SeoYein/TIL/blob/master/deeplearning_base/density_estimation.md
