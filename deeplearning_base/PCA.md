@@ -35,7 +35,7 @@ n-1로 나누기도 함 : 표본이기 때문에 그럼. 모분산이 아니라 
 
 - 주축에 정사영을 시켜야 한다. 그러라면 어떤 벡터에 정사영시킬까?.?
 
-  ![1554963665521](C:\Users\seoyein\AppData\Roaming\Typora\typora-user-images\1554963665521.png)
+ ![1554963665521](C:\Users\seoyein\AppData\Roaming\Typora\typora-user-images\1554963665521.png)
 
 ![1554963976096](C:\Users\seoyein\AppData\Roaming\Typora\typora-user-images\1554963976096.png)
 
