@@ -10,13 +10,13 @@ typora를 이용해 작성한 것을 올립니다.
 
 ### Face Recognition 
 
-- [FaceNet 논문 정리 (중구난방)] (<https://github.com/SeoYein/TIL/blob/master/FaceRecognition/FaceNet.md>)
+- [FaceNet 논문 정리 (중구난방)](<https://github.com/SeoYein/TIL/blob/master/FaceRecognition/FaceNet.md>)
 
 </br>
 
 ### Anomaly Detection 
 
-*  [Unexpected Item in the Bagging Area_ Anomaly Detection in X-Ray Security Images 요약] (https://github.com/SeoYein/TIL/blob/master/anomaly_detection/Unexpected%20Item%20in%20the%20Bagging%20Area_%20Anomaly%20Detection%20in%20X-Ray%20Security%20Images%20%EC%9A%94%EC%95%BD.md)
+*  [Unexpected Item in the Bagging Area_ Anomaly Detection in X-Ray Security Images 요약](https://github.com/SeoYein/TIL/blob/master/anomaly_detection/Unexpected%20Item%20in%20the%20Bagging%20Area_%20Anomaly%20Detection%20in%20X-Ray%20Security%20Images%20%EC%9A%94%EC%95%BD.md)
 
  </br>
 
