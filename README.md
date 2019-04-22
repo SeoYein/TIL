@@ -43,3 +43,7 @@ https://github.com/SeoYein/TIL/blob/master/deeplearning_base/PCA.md
 * density estimation
 
 https://github.com/SeoYein/TIL/blob/master/deeplearning_base/density_estimation.md
+
+* cosine similarity
+
+https://github.com/SeoYein/TIL/blob/master/deeplearning_base/cosine_similarity.md
