@@ -22,7 +22,7 @@ typora를 이용해 작성한 것을 올립니다.</br>
 
 ### computer vision
 
-* [Image Classification과 Image Retrieval의 차이](https://github.com/SeoYein/TIL/blob/master/computer%20vision/Image_classification_vs_Image_retrieval.md)
+* [Image Classification과 Image Retrieval의 차이](https://github.com/SeoYein/TIL/blob/master/computer_vision/Image_classification_vs_Image_retrieval.md)
 
 * [Super Resolution](https://github.com/SeoYein/TIL/blob/master/computer_vision/super_resolution.md)
  </br>
