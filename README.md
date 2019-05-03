@@ -36,3 +36,8 @@ typora를 이용해 작성한 것을 올립니다.</br>
 * [density estimation](https://github.com/SeoYein/TIL/blob/master/deeplearning_base/density_estimation.md)
 
 * [cosine similarity](https://github.com/SeoYein/TIL/blob/master/deeplearning_base/cosine_similarity.md)
+
+</br>
+
+### python_error_tips
+* [importerror : no module named](https://github.com/SeoYein/TIL/blob/master/python_error_tips/ImportError_no_module_named.md)
