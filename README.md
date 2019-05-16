@@ -3,6 +3,7 @@ Today I Learned </br>
 </br>
 그날그날 공부하거나 배운 걸 정리해보는 곳 </br>
 typora를 이용해 작성한 것을 올립니다.</br>
+</br>
 내용은 공부하면서 지속적으로 추가되고 보완됩니다.
 </br>
 
@@ -20,12 +21,16 @@ typora를 이용해 작성한 것을 올립니다.</br>
 
  </br>
 
+
+
 ### computer vision
 
-* [Image Classification과 Image Retrieval의 차이](https://github.com/SeoYein/TIL/blob/master/computer%20vision/Image_classification_vs_Image_retrieval.md)
+* [Image Classification과 Image Retrieval의 차이](https://github.com/SeoYein/TIL/blob/master/computer_vision/Image_classification_vs_Image_retrieval.md)
 
 * [Super Resolution](https://github.com/SeoYein/TIL/blob/master/computer_vision/super_resolution.md)
  </br>
+ 
+ 
 
 ### deeplearning_base 
 
@@ -36,3 +41,8 @@ typora를 이용해 작성한 것을 올립니다.</br>
 * [density estimation](https://github.com/SeoYein/TIL/blob/master/deeplearning_base/density_estimation.md)
 
 * [cosine similarity](https://github.com/SeoYein/TIL/blob/master/deeplearning_base/cosine_similarity.md)
+
+</br>
+
+### python_error_tips
+* [importerror : no module named](https://github.com/SeoYein/TIL/blob/master/python_error_tips/ImportError_no_module_named.md)
