@@ -42,6 +42,8 @@ typora를 이용해 작성한 것을 올립니다.</br>
 
 * [cosine similarity](https://github.com/SeoYein/TIL/blob/master/deeplearning_base/cosine_similarity.md)
 
+* [Multi Instance Learning(MIL)](https://github.com/SeoYein/TIL/blob/master/deeplearning_base/MIL(Multi-Instance-Learning).md)
+
 </br>
 
 ### python_error_tips
