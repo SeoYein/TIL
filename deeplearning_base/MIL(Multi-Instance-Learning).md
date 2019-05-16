@@ -46,4 +46,5 @@ DAP란? Drug Activity Prediction
 
 참고자료
 
-[다중 인스턴스 학습 기반 소셜 미디어 사용자 프로파일 식별](<http://kiise.or.kr/e_journal/2013/4/SA/pdf/05.pdf>_)
+[다중 인스턴스 학습 기반 소셜 미디어 사용자 프로파일 식별](<http://kiise.or.kr/e_journal/2013/4/SA/pdf/05.pdf>)
+
