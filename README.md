@@ -28,11 +28,10 @@ typora를 이용해 작성한 것을 올립니다.</br>
 * [Image Classification과 Image Retrieval의 차이](https://github.com/SeoYein/TIL/blob/master/computer_vision/Image_classification_vs_Image_retrieval.md)
 
 * [Super Resolution](https://github.com/SeoYein/TIL/blob/master/computer_vision/super_resolution.md)
- </br>
  
 * [회전에 강건한 이미지 분류 rotation invariance image classification](https://github.com/SeoYein/TIL/blob/master/computer_vision/rotation_invariance_classification.md)
  
- 
+ </br>
 
 ### deeplearning_base 
 
