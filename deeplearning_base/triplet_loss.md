@@ -9,6 +9,7 @@
 * 기본적인 개념은, anchor와 positive는 같은 클래스이므로, 이 둘의 거리는 가깝게(작게), anchor와 negative는 다른 클래스이므로 이 둘의 거리는 멀게(크게) 한다! 라는 개념에 기인한다. 
 
 * 즉, d는 거리를 구하는 함수(L2norm이라던가 유클리디안 거리 등), f(x)는 임베딩하는 함수(cnn이라던가 feature extraction)라고 할 때, 
+  
   $$
   d(f(Xa),f(Xp)) <= d(f(Xa),f(xn))
   $$
