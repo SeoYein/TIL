@@ -96,10 +96,15 @@
 
 - 1x1xd conv layer의 효과 
 [참고](https://hwiyong.tistory.com/45)
+
  : 구글넷에서 1x1 convolution을 통해 연산을 줄임
+ 
  : 채널 조절, 계산량 감소, 비선형성 이라는 장점이 있는데 왜? 그런가 하면
+ 
  : 1x1 filter를 사용하는데, 채널 수를 조절할 수 있다. (원하는 채널 수만큼 filter 를 넣어 준다) -> 파라미터가 현저히 줄어듦
+ 
  : 1x1 convolutional layer와 ReLU를 통과하면서 비선형성이 증가 
+ 
  
 
 -  FLOPS  ?
