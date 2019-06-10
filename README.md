@@ -13,6 +13,8 @@ typora를 이용해 작성한 것을 올립니다.</br>
 
 - [FaceNet 논문 정리 (중구난방)](<https://github.com/SeoYein/TIL/blob/master/FaceRecognition/FaceNet.md>)
 
+- ArcFace
+
 </br>
 
 ### Anomaly Detection 
@@ -48,6 +50,7 @@ typora를 이용해 작성한 것을 올립니다.</br>
 * [Multi Instance Learning(MIL)](https://github.com/SeoYein/TIL/blob/master/deeplearning_base/MIL(Multi-Instance-Learning).md)
 
 * [Triplet Loss](https://github.com/SeoYein/TIL/blob/master/deeplearning_base/triplet_loss.md)
+
 </br>
 
 ### python_error_tips
