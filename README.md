@@ -34,6 +34,8 @@ typora를 이용해 작성한 것을 올립니다.</br>
 * [회전에 강건한 이미지 분류 rotation invariance image classification](https://github.com/SeoYein/TIL/blob/master/computer_vision/rotation_invariance_classification.md)
  
 * [multigrain-paper](https://github.com/SeoYein/TIL/blob/master/computer_vision/MultiGrain_paper.md) 
+
+* optical flow
  
  </br>
 
@@ -51,7 +53,10 @@ typora를 이용해 작성한 것을 올립니다.</br>
 
 * [Triplet Loss](https://github.com/SeoYein/TIL/blob/master/deeplearning_base/triplet_loss.md)
 
+
 </br>
 
 ### python_error_tips
 * [importerror : no module named](https://github.com/SeoYein/TIL/blob/master/python_error_tips/ImportError_no_module_named.md)
+
+
